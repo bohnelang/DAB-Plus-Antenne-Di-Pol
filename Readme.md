@@ -1,6 +1,6 @@
 # DAB+ (DAB Plus) Di-Pol Antenne selbst gebaut
 
-Der Empfang ist besser als mit einer gekauften Antenne :-) 
+Der Empfang ist besser als mit meiner gekauften Antenne :-) 
 
 
 **Material:**

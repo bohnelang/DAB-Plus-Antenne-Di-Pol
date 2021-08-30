@@ -24,6 +24,10 @@ Berechnung von Lamba:
 299792Km/h - Lichtgeschwindigkeit im Vakuum
 0,97 - Verkürzung, da in Materie die Ausbreitung geringer als im Vakuum ist
 
+------------------+ +------------------
+     35,8cm       | |      35,8cm  
+                  | |
+                  + -
 ```
 https://de.wikipedia.org/wiki/T-DAB-Frequenz
 https://radioempfang.digital/bundesland/hessen/
